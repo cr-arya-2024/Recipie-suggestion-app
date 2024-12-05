@@ -1,0 +1,32 @@
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    height: 10vh;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    font-weight: 900;
+    color: black;
+    
+}
+input{
+    padding: 10px 60px;
+    outline: none;
+    box-shadow: 20px 10px 20px rgb(255, 94, 0);
+    border-radius: 16px;
+    font-size: larger;
+}
+ul{
+    display: flex;
+gap:75px;   
+
+}
+li{
+    display: flex;
+    font-size: larger;
+    flex-direction: column;
+}
